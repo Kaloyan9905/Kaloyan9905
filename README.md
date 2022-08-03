@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Kaloyan9905
-- 👀 I’m interested in software development
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning python
 - 📫 How to reach me milchevkaloian@gmail.com
