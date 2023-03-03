@@ -1,15 +1,16 @@
-Languages I can use - Python, JS, HTML and CSS.
-Current status - Learning JS Front-End.
-Strongest language - Python.
-
-Hello World! My name is Kaloyan and I am interested in web development. I have started my coding journey since 2022. My intension is to be the best version of myself. The road must be hard but this will never stop me dreaming and doing stuff I like. The reason I want to become a software engineer is my passion to solve problems. 
-
-In my free time in love doing calisthenics, going to the gym, cooking, coding for fun of course and last but not least to hang out with my friends.
-
-How to reach me - milchevkaloian@gmail.com
-
-
 <h1 align="center">Hi 👋, I'm Kaloyan Milchev</h1>
+<h3 align="center">SoftUni student</h3>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaloyan9905" alt="kaloyan9905" /></a> </p>
+
+- 🌱 I’m currently learning **JavaScript Front-End**
+
+- 📫 How to reach me **milchevkaloian@gmail.com**
+
+- 📄 Know about my experiences [I am studing since january 2022. My strongest language is Python. Currently I am developing my skills on JavaScript. Soon I will start developing software as a Back-end developer!r](I am studing since january 2022. My strongest language is Python. Currently I am developing my skills on JavaScript. Soon I will start developing software as a Back-end developer!r)
+
+- ⚡ Fun fact **One of my secrets to feel motivated is that I am surrounded with problems to solve every single day. Being in good body shape is key for concentration and motivation for me.**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/_kaloyan__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_kaloyan__" height="30" width="40" /></a>
@@ -22,3 +23,4 @@ How to reach me - milchevkaloian@gmail.com
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaloyan9905&show_icons=true&locale=en" alt="kaloyan9905" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaloyan9905&" alt="kaloyan9905" /></p>
