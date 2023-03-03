@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **milchevkaloian@gmail.com**
 
-- 📄 Know about my experiences [I am studing since january 2022. My strongest language is Python. Currently I am developing my skills on JavaScript. Soon I will start developing software as a Back-end developer!r](I am studing since january 2022. My strongest language is Python. Currently I am developing my skills on JavaScript. Soon I will start developing software as a Back-end developer!r)
+- 📄 Know about my experiences - I have started my coding journey since january 2022. Python is my most proficient programming language. Currently I am developing my skills on JavaScript. Soon I will start creating software as a back-end developer.
 
 - ⚡ Fun fact **One of my secrets to feel motivated is that I am surrounded with problems to solve every single day. Being in good body shape is key for concentration and motivation for me.**
 
