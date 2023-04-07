@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences - I have started my coding journey since january 2022. Python is my most proficient programming language. Currently I am developing my skills on JavaScript. Soon I will start creating software as a back-end developer.
 
-- ⚡ Fun fact **One of my secrets to feel motivated is that I am surrounded with problems to solve every single day. Being in good body shape is key for concentration and motivation for me.**
+- ⚡ Fun fact - **One of my secrets to feel motivated is that I am surrounded with problems to solve every single day. Being in good body shape is key for concentration and motivation for me.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
