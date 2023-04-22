@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaloyan9905" alt="kaloyan9905" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript Front-End**
+- 🌱 I’m currently learning **Django**
 
 - 📫 How to reach me **milchevkaloian@gmail.com**
 
-- 📄 Know about my experiences - I have started my coding journey since january 2022. Python is my most proficient programming language. Currently I am developing my skills on JavaScript. Soon I will start creating software as a back-end developer.
+- 📄 Know about my experiences - I have started my coding journey since january 2022. Python is my most proficient programming language. Currently I am developing my skills on Django. Soon I will start creating software as a back-end developer.
 
 - ⚡ Fun fact - **One of my secrets to feel motivated is that I am surrounded with problems to solve every single day. Being in good body shape is key for concentration and motivation for me.**
 
