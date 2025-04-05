@@ -13,8 +13,8 @@
 
 ### Connect with me:
 
-[<img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" width="26px" style="padding-right:50px">](https://www.instagram.com/_kaloyan__/)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/LinkedIn_Logo_2013.png" width="26px" style="padding-right:50px">](https://www.linkedin.com/in/kaloyan-milchev-9595bb266/)
+[<img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" width="40px" style="padding-right:50px; margin-top:8px;">](https://www.linkedin.com/in/kaloyan-milchev-9595bb266/)
+[<img src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000" width="40px" style="margin-top:8px;">](https://instagram.com/_kaloyan__)
 
 ---
 
