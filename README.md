@@ -1,6 +1,6 @@
 # Hi, I'm Kaloyan Milchev 👋 
 
-## I'm a Python Developer | Django REST Enthusiast | Computer Science Student at NBU
+## I'm a Python Developer | Computer Science Student at NBU
 
 <img align="right" width=120px height=110px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
