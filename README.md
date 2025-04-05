@@ -2,7 +2,7 @@
 
 ## I'm a Python Developer | Computer Science Student at NBU
 
-<img align="right" width=120px height=110px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+<img align="right" width=120px height=110px alt="rocket" src="https://media.giphy.com/media/l4KhQo2MESJkc6QbS/giphy.gif" />
 
 - 🌱 I'm majoring in **Computer Science** at **New Bulgarian University**.
 - 💻 Currently working on various **backend projects** and improving my **Django** skills.
