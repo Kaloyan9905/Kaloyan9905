@@ -6,7 +6,6 @@
 
 - 🌱 I'm majoring in **Computer Science** at **New Bulgarian University**.
 - 💻 Currently working on various **backend projects** and improving my **Django** skills.
-- 🎓 I’m a student at **New Bulgarian University**, studying **Computer Science**.
 - ⚡ Fun fact: I love solving problems, and I find that staying in good physical shape helps with motivation and focus.
 
 ---
