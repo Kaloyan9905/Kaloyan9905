@@ -1,11 +1,11 @@
 # Hi, I'm Kaloyan Milchev 👋 
 
-## I'm a Python Developer | Computer Science Student at NBU
+## I'm a Software Engineet at PROS | Computer Science Student at NBU
 
 <img align="right" width=120px height=110px alt="rocket" src="https://media.giphy.com/media/l4KhQo2MESJkc6QbS/giphy.gif" />
 
 - 🌱 I'm majoring in **Computer Science** at **New Bulgarian University**.
-- 💻 Currently working on various **backend projects** and improving my **Django** skills.
+- 💻 Currently working at PROS as Python Engineer with Databricks.
 - ⚡ Fun fact: I love solving problems, and I find that staying in good physical shape helps with motivation and focus.
 
 ---
